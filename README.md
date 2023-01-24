@@ -1,3 +1,3 @@
 README
 adding an new line of text here
-adding another line 
+adding another line here
